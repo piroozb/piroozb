@@ -7,7 +7,7 @@ Currently working on [BookThink](https://github.com/piroozb/book-thing)
 ```py
 proficient: Python, LaTeX
 familiar: HTML, Visual Basic, C#
-amateur: Javascript, COBOL, C++, CSS
+amateur: Javascript, COBOL, CSS, C++
 ```
 ### Contacts:
 <a href="mailto:piroozbarkoosaraei@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
