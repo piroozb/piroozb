@@ -5,13 +5,12 @@
 Currently working on [BookThink](https://github.com/piroozb/book-thing)
 ### Languages:
 ```py
-know: Python, LaTeX, HTML/CSS, Visual Basic, C#
-learning: Javascript, COBOL, C++
+proficient: Python, LaTeX
+familiar: HTML, Visual Basic, C#
+amateur: Javascript, COBOL, C++, CSS
 ```
-<h3>Contacts:</h3>
-<p>
+### Contacts:
 <a href="mailto:piroozbarkoosaraei@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
 <a href="https://www.linkedin.com/in/pirooz-barkoosaraei/" target="blank"><img src="logos/linkedin.svg" height="40" width="50"/></a>
 <a href="https://www.instagram.com/pillscapsules/" target="blank"><img src="logos/instagram.svg" height="40" width="50"/></a>
 <a href="https://discord.com/users/242061580970229761" target="blank"><img src="logos/discord.svg" height="40" width="50"/></a>
-</p>
