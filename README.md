@@ -1,14 +1,17 @@
-### Second Year Computer Science @ University of Toronto
+## Hello, I'm Pirooz💊
+2nd year Computer Science student at [University of Toronto](https://www.utoronto.ca/)  
+Currently working on [BookThink](https://github.com/piroozb/book-thing)
 
-<!-- **piroozb/piroozb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-- Currently working on BookThink
-- Languages I know: Python, LaTeX, C#, HTML, CSS, Visual Basic
-- Languages I'm learning: Javascript, COBOL
-- Contacts: 
-<img style="float: right;" src="logos/envelope.svg" width="18" height="18"> [Email](piroozbarkoosaraei@gmail.com) 
-<img style="float: right;" src="logos/instagram.svg" width="18" height="18"> [Instagram](https://www.instagram.com/pillscapsules/) 
-<img style="float: right;" src="logos/discord.svg" width="18" height="18"> [Discord](https://discord.com/users/242061580970229761) 
-<img style="float: right;" src="logos/linkedin.svg" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/pirooz-barkoosaraei/) 
-<img style="float: right;" src="logos/github.svg" width="18" height="18"> [Github](https://github.com/piroozb/)
+### Languages:
+```py
+know: Python, LaTeX, HTML, CSS, Visual Basic, C#
+learning: Javascript, COBOL, C++
+```
+ <img src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=react&show_icons=true" alt="Pirooz's Github Stats"></img>
+<h3>Contacts:</h3>
+<p>
+<a href="piroozbarkoosaraei@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
+<a href="https://www.linkedin.com/in/pirooz-barkoosaraei/" target="blank"><img src="logos/linkedin.svg" height="40" width="50"/></a>
+<a href="https://www.instagram.com/pillscapsules/" target="blank"><img src="logos/instagram.svg" height="40" width="50"/></a>
+<a href="https://discord.com/users/242061580970229761" target="blank"><img src="logos/discord.svg" height="40" width="50"/></a>
+</p>
