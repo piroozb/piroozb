@@ -1,13 +1,13 @@
 ## Hello, I'm Pirooz💊
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=react&show_icons=true" alt="Pirooz's Github Stats"></img>
 2nd year Computer Science student at [University of Toronto](https://www.utoronto.ca/)  
 Currently working on [BookThink](https://github.com/piroozb/book-thing)
-
 ### Languages:
 ```py
 know: Python, LaTeX, HTML, CSS, Visual Basic, C#
 learning: Javascript, COBOL, C++
 ```
- <img src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=react&show_icons=true" alt="Pirooz's Github Stats"></img>
 <h3>Contacts:</h3>
 <p>
 <a href="piroozbarkoosaraei@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
