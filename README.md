@@ -5,7 +5,7 @@
 Currently working on [BookThink](https://github.com/piroozb/book-thing)
 ### Languages:
 ```py
-know: Python, LaTeX, HTML, CSS, Visual Basic, C#
+know: Python, LaTeX, HTML/CSS, Visual Basic, C#
 learning: Javascript, COBOL, C++
 ```
 <h3>Contacts:</h3>
