@@ -2,14 +2,14 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
-2nd year CS student at [University of Toronto](https://www.utoronto.ca/)  
+2nd year CS student at the [University of Toronto](https://www.utoronto.ca/)  
 Currently working on [BookThink](https://github.com/piroozb/book-thing)
 
 ### Languages:
 ```py
 proficient: Python, LaTeX
 familiar: HTML, Visual Basic, C#
-amateur: Javascript, COBOL, CSS, C++
+learning: Javascript, COBOL, CSS, C++
 ```
 ### Contacts:
 <a href="mailto:piroozbarkoosaraei@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
