@@ -3,7 +3,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
 2nd year CS student at the [University of Toronto](https://www.utoronto.ca/)  
-Currently working on [BookThink](https://github.com/piroozb/book-thing)
 
 ### Languages:
 ```py
