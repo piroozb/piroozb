@@ -8,8 +8,8 @@ Currently working as a Python developer at [Kidney Health Education and Research
 ### Languages:
 ```py
 proficient: Python, LaTeX
-familiar: HTML, CSS, Visual Basic, C#
-learning: Javascript, COBOL, C++
+familiar: Java, HTML, CSS, JavaScript, C#
+learning: C++
 ```
 ### Contacts:
 <a href="mailto:piroozsab@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
