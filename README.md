@@ -4,7 +4,7 @@
 
 2nd year CS student at the [University of Toronto](https://www.utoronto.ca/).  
 Currently working as a Python developer at [Kidney Health Education and Research Group](https://nefros.net/).  
-Currently seeking Summer 2022 internships, feel free to contact me at [piroozsab@gmail.com](mailto:piroozsab@gmail.com)!
+I am also seeking Summer 2022 internships, feel free to contact me at [piroozsab@gmail.com](mailto:piroozsab@gmail.com)!
 
 ### Languages:
 ```py
