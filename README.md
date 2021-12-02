@@ -3,12 +3,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
 2nd year CS student at the [University of Toronto](https://www.utoronto.ca/).  
-Currently working as a Python developer at [Kidney Health Education and Research Group](https://nefros.net/).
+Currently working as a Python developer at [Kidney Health Education and Research Group](https://nefros.net/).  
+Currently seeking Summer 2022 internships, feel free to contact me at [piroozsab@gmail.com](mailto:piroozsab@gmail.com)!
 
 ### Languages:
 ```py
-proficient: Python, LaTeX
-familiar: Java, HTML, CSS, JavaScript, C#
+proficient: Python, Java, LaTeX
+familiar: HTML, CSS, JavaScript, C#
 learning: C++
 ```
 ### Contacts:
