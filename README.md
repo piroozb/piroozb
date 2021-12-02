@@ -1,10 +1,10 @@
 ## Hello, I'm Pirooz💊
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
-
 2nd year CS student at the [University of Toronto](https://www.utoronto.ca/).  
 Currently working as a Python developer at [Kidney Health Education and Research Group](https://nefros.net/).  
 I am also seeking Summer 2022 internships, feel free to contact me at [piroozsab@gmail.com](mailto:piroozsab@gmail.com)!
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
 ### Languages:
 ```py
