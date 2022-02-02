@@ -9,8 +9,8 @@ I am also seeking Summer 2022 internships, feel free to contact me at [piroozsab
 ### Languages:
 ```py
 proficient: Python, Java, LaTeX
-familiar: HTML, CSS, JavaScript, C#
-learning: C++
+familiar: HTML, CSS, JavaScript, C, C#
+learning: C++, Ruby
 ```
 ### Contacts:
 <a href="mailto:piroozsab@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
