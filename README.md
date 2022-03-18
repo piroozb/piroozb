@@ -2,7 +2,7 @@
 
 2nd year CS student at the [University of Toronto](https://www.utoronto.ca/).  
 Currently working as a Python developer at [Kidney Health Education and Research Group](https://nefros.net/).  
-I am also seeking Summer 2022 internships, feel free to contact me at [piroozsab@gmail.com](mailto:piroozsab@gmail.com)!
+Upcoming Junior Quality Engineer Co-op at [Equifax](https://www.equifax.com/).
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
@@ -10,8 +10,11 @@ I am also seeking Summer 2022 internships, feel free to contact me at [piroozsab
 ```py
 proficient: Python, Java, LaTeX
 familiar: HTML, CSS, JavaScript, C, C#
-learning: C++, React
+learning: C++
 ```
+
+### [piroozbarkoosaraei.com](http://piroozbarkoosaraei.com/)
+
 ### Contacts:
 <a href="mailto:piroozsab@gmail.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
 <a href="https://www.linkedin.com/in/pirooz-barkoosaraei/" target="blank"><img src="logos/linkedin.svg" height="40" width="50"/></a>
