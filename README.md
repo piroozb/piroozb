@@ -1,7 +1,7 @@
 ## Hello, I'm Pirooz💊
 
 3rd year Computer Science and Cognitive Science student at the [University of Toronto](https://www.utoronto.ca/).  
-Currently a Junior Quality Engineer Co-op at [Equifax](https://www.equifax.com/).  
+Currently a Front-End Developer at [Nuance Communications](https://www.nuance.com/index.html)
 Also an avid powerlifter, hoping to compete in a couple years.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
