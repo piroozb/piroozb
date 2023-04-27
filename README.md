@@ -1,8 +1,8 @@
 ## Hello, I'm Pirooz🖤
 
 3rd year Computer Science and Cognitive Science student at the [University of Toronto](https://www.utoronto.ca/).  
-I have many plans in the works for the future. While they may not be visible at the moment, I am currently undergoing internal restructuring to bring them to fruition.  
-Also an avid powerlifter, hoping to compete in a couple years.
+Currently restructuring my internal world, with exciting plans on the horizon.  
+I also have a passion for powerlifting and plan to compete in the near future.  
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
