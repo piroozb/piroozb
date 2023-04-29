@@ -7,8 +7,8 @@ I also have a passion for powerlifting and plan to compete in the near future.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=piroozb&theme=algolia&show_icons=true" alt="Pirooz's Github Stats"></img>
 
 ### Languages and Technologies:
-```javascript 
-proficient: Python, JavaScript, React, HTML, CSS
+```javascript
+proficient: "Python, JavaScript, React, HTML, CSS"
 familiar: "Java, Django, SQL, C, C#, MongoDB"
 learning: "PostgreSQL"
 ```
