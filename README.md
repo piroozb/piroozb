@@ -4,7 +4,7 @@
 Currently restructuring my internal world, figuring out who I am and what I want.  
 I also have a passion for powerlifting and hope to compete in the future.  
 
-<img align='right' src="catto.jpg" alt="Shima" height="240"></img>
+<img align='right' src="catto.png" alt="Shima" height="240"></img>
 
 ### Languages and Technologies:
 ```javascript
