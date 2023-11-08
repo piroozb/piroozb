@@ -10,7 +10,7 @@ I also have a passion for powerlifting and hope to compete in the future.
 ```javascript
 proficient: "Python, JavaScript, React, HTML, CSS"
 familiar: "Java, Django, SQL, C, C#, MongoDB"
-learning: "PostgreSQL"
+learning: "PyTorch"
 ```
 
 ### Contacts:
