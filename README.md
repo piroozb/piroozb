@@ -1,8 +1,8 @@
 ## Hello, I'm Pirooz🖤
 
 4th-year Computer Science and Cognitive Science student at the [University of Toronto](https://www.cssu.ca/).  
-Currently working as a Software Engineer Intern in the Messaging and Platforms team at [Wayfair](https://www.wayfair.ca/).  
-I also have a passion for powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
+Currently working as a Software Engineer Intern in the ML Platforms team at [Wayfair](https://www.wayfair.ca/).  
+I'm also quite passionate about powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
 
 <img align='right' src="catto.png" alt="My cat. Her name is Shima 🥺" height="200"></img>
 
