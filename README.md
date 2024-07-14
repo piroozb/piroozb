@@ -1,16 +1,16 @@
 ## Hello, I'm Pirooz🖤
 
-3rd-year Computer Science and Cognitive Science student at the [University of Toronto](https://www.cssu.ca/).  
-Currently working as a Research Assistant under Professor Matthias Nieimer and his team at the [CoNSens Labratory](https://www.utsc.utoronto.ca/~niemeier/).  
-I also have a passion for powerlifting and hope to compete in the future.  
+4th-year Computer Science and Cognitive Science student at the [University of Toronto](https://www.cssu.ca/).  
+Currently working as a Software Engineer Intern at [Wayfair](https://www.wayfair.ca/).  
+I also have a passion for powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
 
 <img align='right' src="catto.png" alt="Shima" height="240"></img>
 
 ### Languages and Technologies:
 ```javascript
-proficient: "Python, JavaScript, React, HTML, CSS"
-familiar: "Java, Django, SQL, C, C#, MongoDB"
-learning: "PyTorch"
+proficient: ["Python", "JavaScript", "React.js", "HTML/CSS", "PyTorch"]
+familiar: ["SQL", "Docker", "C", "C#", "MongoDB", "Django", "MIPS"]
+learning: ["Java", "Kubernetes", "Go"]
 ```
 
 ### Contacts:
