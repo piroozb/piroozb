@@ -8,9 +8,9 @@ I also have a passion for powerlifting and [recently started competing](https://
 
 ### Languages and Technologies:
 ```javascript
-proficient: ["Python", "JavaScript", "React.js", "PyTorch"]
-familiar: ["SQL", "Docker", "C#", "MongoDB", "Django"]
-learning: ["Java", "Kubernetes", "Go"]
+proficient: "Python, JavaScript, React.js, PyTorch"
+familiar: "SQL, Docker, C/C++, C#, MongoDB, Django"
+learning: "Java, Kubernetes, Go"
 ```
 
 ### Contacts:
