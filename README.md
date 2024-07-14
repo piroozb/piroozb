@@ -4,7 +4,7 @@
 Currently working as a Software Engineer Intern in the ML Platforms team at [Wayfair](https://www.wayfair.ca/).  
 I'm also quite passionate about powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
 
-<img align='right' src="catto.png" alt="My cat. Her name is Shima 🥺" height="200"></img>
+<img align='right' src="catto.png" alt="My cat. Her name is Shima 🥺" height="240"></img>
 
 ### Languages and Technologies:
 ```javascript
