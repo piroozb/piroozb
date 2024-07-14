@@ -4,12 +4,12 @@
 Currently working as a Software Engineer Intern at [Wayfair](https://www.wayfair.ca/).  
 I also have a passion for powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
 
-<img align='right' src="catto.png" alt="Shima" height="240"></img>
+<img align='right' src="catto.png" alt="My cat. Her name is Shima 🥺" height="240"></img>
 
 ### Languages and Technologies:
 ```javascript
-proficient: ["Python", "JavaScript", "React.js", "HTML/CSS", "PyTorch"]
-familiar: ["SQL", "Docker", "C", "C#", "MongoDB", "Django", "MIPS"]
+proficient: ["Python", "JavaScript", "React.js", "PyTorch"]
+familiar: ["SQL", "Docker", "C#", "MongoDB", "Django"]
 learning: ["Java", "Kubernetes", "Go"]
 ```
 
