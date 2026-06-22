@@ -1,6 +1,6 @@
 ## Hello, I'm Pirooz🖤
 
-4th-year Computer Science and Cognitive Science student at the [University of Toronto](https://www.cssu.ca/).  
+Recent graduate in Computer Science and Cognitive Science at the [University of Toronto](https://www.cssu.ca/).  
 Previously worked as a Software Engineer Intern in the ML Platforms team at [Wayfair](https://www.wayfair.ca/).  
 I'm also quite passionate about powerlifting and [recently started competing](https://www.openpowerlifting.org/u/piroozseyfaskaribarkoosaraei).
 
